@@ -2,7 +2,6 @@
 can this work?
 Just from mysetup import * ?
 """
-%matplotlib inline
 import pandas
 A2PATH = "./SP458 Tobacco Volume A_v2.xls"
 # Full width display for text fields.
